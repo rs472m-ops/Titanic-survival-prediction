@@ -8,6 +8,8 @@ The application predicts whether a passenger survived the Titanic disaster based
 
 The project also demonstrates Hyperparameter Tuning using Random Forest Classifier.
 
+## Video Demo : [https://drive.google.com/file/d/1UG-yA12SDjHS62M2A3L7VCn9Ne-npFvT/view?usp=sharing]
+
 ## Features
 
 - View Titanic Dataset
